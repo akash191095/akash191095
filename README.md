@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Frontend Focused Developer with **7+ years of experience** building user-focused web applications. I specialize in crafting exceptional digital experiences using modern technologies, with a strong focus on front-end development and user experience.
+Full-Stack Developer with **7+ years of experience** building user-focused web applications. I specialize in crafting exceptional digital experiences using modern technologies, with a strong focus on front-end development and user experience.
 
 - 🔭 Currently working on **AI-powered web applications**
 - 🌱 Open-source contributor to **Material-UI** (used by millions of developers)
@@ -71,9 +71,8 @@ Interactive portfolio with an embedded Snake game
 
 <div align="center">
   
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash191095&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash191095&layout=compact&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash191095&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash191095&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
