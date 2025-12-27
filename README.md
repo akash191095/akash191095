@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Full-Stack Developer with **7+ years of experience** building user-focused web applications. I specialize in crafting exceptional digital experiences using modern technologies, with a strong focus on front-end development and user experience.
+Frontend Focused Developer with **7+ years of experience** building user-focused web applications. I specialize in crafting exceptional digital experiences using modern technologies, with a strong focus on front-end development and user experience.
 
 - 🔭 Currently working on **AI-powered web applications**
 - 🌱 Open-source contributor to **Material-UI** (used by millions of developers)
