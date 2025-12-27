@@ -71,8 +71,9 @@ Interactive portfolio with an embedded Snake game
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash191095&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash191095&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akash191095&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Akash's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akash191095&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
