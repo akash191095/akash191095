@@ -67,6 +67,19 @@ Interactive portfolio with an embedded Snake game
 - Interactive game built with Phaser engine
 - Optimized with CDN caching, code splitting, and lazy loading
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://stats-ten-weld.vercel.app/api?username=akash191095&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://stats-ten-weld.vercel.app/api/top-langs/?username=akash191095&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" />
+</a>
+
+</div>
+
 ## 🌟 Highlights
 
 - 🏆 **Material-UI Contributor**: Contributed to v5.13.0 and v5.13.3 releases
