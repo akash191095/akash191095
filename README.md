@@ -9,13 +9,48 @@
 
 ## 🚀 About Me
 
-Frontend Focused Developer with **7+ years of experience** building user-focused web applications. I specialize in crafting exceptional digital experiences using modern technologies, with a strong focus on front-end development and user experience.
+Frontend-focused engineer with **7+ years of experience** building scalable, high-performance web applications across fintech, e-commerce, and AI products.
 
-- 🔭 Currently working on **AI-powered web applications**
-- 🌱 Open-source contributor to **Material-UI** (used by millions of developers)
-- 💡 Built products that reached **200K+ users**
-- 🎮 Love building interactive experiences - check out my [portfolio with Snake game](https://akashagarwal.dev)
-- 📍 Based in Visakhapatnam, India | Working remotely with global teams
+- 🔭 Currently building **AI-powered + real-world production systems**
+- 💡 Built products used by **200K+ users**
+- ⚡ Strong focus on **performance, UX, and clean architecture**
+- 🌱 Open-source contributor to **Material UI & Tailwind**
+- 🎮 I enjoy building interactive experiences (yes, even games in portfolios)
+- 📍 Based in India, working remotely with global teams
+
+---
+
+## 🧊 Featured Projects
+
+### 🧊 [Blaster 3D](https://blaster3d.in)
+
+Full-stack 3D printing platform with instant quoting, real-time processing, and payments
+
+- Real-time **SSE pipeline** streaming slicer analysis from Python microservice
+- In-browser **3D file processing (STL/3MF parsing + conversion)** using Web Workers
+- Secure **server-side pricing engine** preventing client manipulation
+- Idempotent **payment + order system** using Cashfree webhooks
+
+---
+
+### 🚀 [BG Blaster](https://bgblaster.com)
+
+AI-powered background removal SaaS with credit-based system
+
+- Deployed **AI models (BiRefNet / diffusion)** for fast image processing
+- Built **credit + payment system** with race-condition safety
+- Optimized image pipeline with compression + CDN delivery
+
+---
+
+### 🐍 [Interactive Portfolio](https://akashagarwal.dev)
+
+Portfolio with an embedded Snake game
+
+- Built with **Next.js 15, React 19, Phaser**
+- Focus on performance, animations, and playful UX
+
+---
 
 ## 💻 Tech Stack
 
@@ -25,8 +60,6 @@ Frontend Focused Developer with **7+ years of experience** building user-focused
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 ### Backend
 
@@ -35,70 +68,44 @@ Frontend Focused Developer with **7+ years of experience** building user-focused
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### UI Libraries & Styling
+### Infra & Tools
 
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### Tools & Other
-
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-6B2FBB?style=for-the-badge&logo=phaser&logoColor=white)
 
-## 🎯 Featured Projects
-
-### [BG Blaster](https://bgblaster.com)
-
-AI-powered web application for removing backgrounds from images
-
-- Built with Next.js, TypeScript, and PostgreSQL
-- Integrated open-source AI models with payment gateway
-- Implemented credit system for usage tracking
-
-### [Portfolio Website](https://akashagarwal.dev)
-
-Interactive portfolio with an embedded Snake game
-
-- High-performance Next.js 15 & React 19 application
-- Interactive game built with Phaser engine
-- Optimized with CDN caching, code splitting, and lazy loading
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://stats-ten-weld.vercel.app/api?username=akash191095&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://stats-ten-weld.vercel.app/api/top-langs/?username=akash191095&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" />
-</a>
+<img height=200 src="https://stats-ten-weld.vercel.app/api?username=akash191095&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height=200 src="https://stats-ten-weld.vercel.app/api/top-langs/?username=akash191095&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
 
+---
+
 ## 🌟 Highlights
 
-- 🏆 **Material-UI Contributor**: Contributed to v5.13.0 and v5.13.3 releases
-- 📱 Developed neo-banking app reaching **200K+ users** in 6 weeks
-- ⚡ Reduced campaign launch time from **5 days to 10 minutes** through in-house platform migration
-- 🎨 Led complete UI overhauls for multiple production applications
-- 👥 Mentored junior developers across teams on front-end best practices
+- 🏆 Contributor to **Material UI & Tailwind CSS**
+- 📱 Built app reaching **200K+ users in 6 weeks**
+- ⚡ Reduced internal tooling time from **5 days → 10 minutes**
+- 🎨 Led UI architecture across multiple production systems
+- 👥 Mentored developers across teams
 
-## 💼 Work Experience
+---
 
-**Full Stack Developer** @ Andisor (Remote, Australia) - _Jan 2024 – July 2025_
+## 💼 Experience
 
-**Senior Front End Developer** @ ULA (Remote, Indonesia) - _Jan 2022 – May 2023_
+- **Full Stack Developer** @ Andisor  
+- **Senior Frontend Developer** @ ULA  
+- **Senior Frontend Developer** @ Mool  
 
-**Senior Front End Developer** @ Mool (Remote, India) - _Dec 2020 – Jan 2022_
+---
 
 ## 🤝 Let's Connect
-
-I'm always interested in collaborating on exciting projects or discussing web development. Feel free to reach out!
 
 <div align="center">
 
@@ -111,7 +118,7 @@ I'm always interested in collaborating on exciting projects or discussing web de
 
 <div align="center">
   
-💡 *"Building digital experiences that users love, one component at a time"*
+💡 *"Build real products, not just features."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akash191095&color=blueviolet&style=for-the-badge)
 
